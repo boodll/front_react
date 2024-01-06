@@ -1,0 +1,3 @@
+서버 준비
+>npm install
+>npm run start:dev

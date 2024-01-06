@@ -1,0 +1,12 @@
+>npm init vite lab-ch4-app -- --template react
+
+//cd lab-ch4-app
+//npm install
+//npm run dev
+>npm install bootstrap@5.x.x prop-types
+
+>npm install date-and-time
+
+__________
+>npm init vite todolist-app-class -- --template react
+>npm install immer bootstrap@5.x.x prop-types

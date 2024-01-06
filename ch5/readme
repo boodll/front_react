@@ -1,0 +1,5 @@
+>npm init vite hook-test-app -- --template react
+
+>npm install
+
+>npm install date-and-time bootstrap@5.x.x immer
